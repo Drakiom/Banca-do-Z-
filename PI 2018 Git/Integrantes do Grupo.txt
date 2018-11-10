@@ -1,0 +1,9 @@
+018915 Paulo Vinícius de Medeiros Gerente, Documentador.
+022002 Gabriel Batista Macedo Desenvolvedor
+021211 Jehu M. da Silva Neto Executor de Testes
+022404 Victor Pazeanotti Tavares da Silva Projetista
+018872 Ricardo Silva de Andrade Analista de Solução Técnica
+019446 Mateus Oliveira Temoteo Analista de Requisitos
+
+
+APESAR DAS TAREFAS DESCRITAS ACIMA TODOS OS INTEGRANTES ATUARAM EM TODAS AS PARTES.
