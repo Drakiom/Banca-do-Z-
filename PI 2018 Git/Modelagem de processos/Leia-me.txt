@@ -1,0 +1,1 @@
+Nessa pasta encontra-se alguns exemplos básicos de BPMN, método utilizado na modelagem de processos.

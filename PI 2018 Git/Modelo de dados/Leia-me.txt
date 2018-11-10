@@ -1,0 +1,1 @@
+Nessa pasta encontra-se o arquivo de modelagem do banco de dados do projeto.
