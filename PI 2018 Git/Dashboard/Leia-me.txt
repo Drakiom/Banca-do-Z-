@@ -3,4 +3,4 @@ Abaixo segue o link da dashboard online via servidor do tableau:
 https://public.tableau.com/profile/banca.do.ze#!/vizhome/BancadoZEstrtgico/Painel2?publish=yes
 
 
-Ao clicar no logo da Banca do Zé você será direcionado para o protótiop interativo novamente.
+Ao clicar no logo da Banca do Zé você será direcionado para o protótipo interativo novamente.
