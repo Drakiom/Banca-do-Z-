@@ -1,12 +1,13 @@
-******************************************************
+Nessa pasta encontra-se todo o material utilizado e evoluído durante dois semestres pelo mesmo grupo de projeto integrado, tudo estará organizado conforme o tema do arquivo e todos os arquivos apresentados no trabalho possuem a palavra "final" em seu título, todos os arquivos anteriores e etapas de desenvolvimento incluindo as primeiras telas que sofreram drásticas mudanças e reajustes se encontram em pastas distintas nomeadas "arquivos antigos" e estão todas dentro de seus respectivos temas.
 
-NESSA PASTA ENCONTRA-SE TODO O MATERIAL REALIZADO E EVOLUIDO DURANTE DOIS SEMESTRES PELO MESMO GRUPO DE PROJETO INTEGRADO, TUDO ESTÁRA ORGANIZADO CONFORME O TEMA DO ARQUIVO E TODOS OS ARQUIVOS APRESENTADOS NO TRABALHO POSSUEM A PALAVRA "FINAL" EM SEU TITULO, TODOS OS ARQUIVOS ANTERIORES E ETAPAS DE DESENVOLVIMENTO INCLUINDO AS PRIMEIRAS TELAS QUE SOFRERAM DRASTICAS MUDANÇAS E REAJUSTES SE ENCONTRAM EM PASTAS DISTINTAS NOMEADAS "ARQUIVOS ANTIGOS" E ESTÃO TODAS DENTRO DE SEUS RESPECTIVOS TEMAS.
 
-OS ARQUIVOS DE PROTÓRIPO E DASHBOARD ENCONTRAM-SE ONLINE, PORTANTO LINK ESTÁ DISPONIBILIZADO EM SUAS RESPECTIVAS NOTAS DE ISNTRUÇÃO (LEIA-ME) DE CADA PASTA.
+Os arquivos de protótipo e dashboard encontram-se online, portanto link está disponibilizado em suas respectivas notas de instrução (leia-me) de cada pasta.
 
+Mirror 1: OneDrive
 https://1drv.ms/f/s!Ap9SSDLr1rTT4WhKRhnHrW22UBQr
 
+Mirror 2:GitHub
+https://github.com/Drakiom/Banca-do-Z-
 
-OBRIGADO.
 
-*******************************************************
+Obrigado.
