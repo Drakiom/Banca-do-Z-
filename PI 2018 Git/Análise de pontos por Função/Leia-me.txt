@@ -1,1 +1,1 @@
-Nessa Pasta encontra-se a Análise de pontos por função que definiu o custo e tempo do projeto.
+Nessa pasta encontra-se a Análise de pontos por função que definiu o custo e tempo do projeto.
