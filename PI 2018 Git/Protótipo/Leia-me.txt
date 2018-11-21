@@ -1,6 +1,8 @@
+Nessa pasta encontra-se o protótipo do sistema:
+
 Segue Abaixo protótipo interativo e online via servidor Tableau Public.
 
-(Ao clicar em qualquer gráfico disposto na aba de Relátórios você será direcionado para o Dashboard.)
+(Ao clicar em qualquer gráfico disposto na aba de Relatórios você será direcionado para o Dashboard.)
 
 
 https://marvelapp.com/65d5526/screen/49364907
