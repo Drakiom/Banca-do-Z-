@@ -1,1 +1,1 @@
-Nessa Pasta encontra-se toda a massa de dados utilizada, diversas etapas de limpeza e pré definições, junto ao arquivo final da massa de dados.
+Nessa pasta encontra-se toda a massa de dados utilizada, diversas etapas de limpeza e pré definições, junto ao arquivo final da massa de dados.
